@@ -1,0 +1,4 @@
+opencv-python
+dlib==19.17.0
+face_recognition
+pyqt5
